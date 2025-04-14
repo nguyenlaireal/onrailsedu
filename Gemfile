@@ -57,6 +57,7 @@ gem "slim_lint", require: false
 gem "slim-rails"
 gem "faker"
 gem "ostruct"
+gem "sassc-rails"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
